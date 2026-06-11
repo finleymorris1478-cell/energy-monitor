@@ -2,7 +2,7 @@
 <!-- Replace USERNAME and REPO with your own GitHub username and repository name. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://USERNAME.github.io/REPO/</loc>
+    <loc>https:https://finleymorris1478-cell.github.io/energy-monitor/sitemap.xml/</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
