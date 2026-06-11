@@ -1,0 +1,6 @@
+# Smart House Energy Monitor
+User-agent: *
+Allow: /
+
+# Replace USERNAME and REPO with your own once the site is live:
+Sitemap: https://USERNAME.github.io/REPO/sitemap.xml
